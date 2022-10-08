@@ -1,0 +1,35 @@
+body{
+    display: flex;
+}
+
+nav a{
+  text-decoration: none;
+  
+}
+.contenedor{
+    border: 3px solid #FAD4C0;
+    margin: 0 auto;
+    width: 60%;
+    background: #fff;
+    padding: 10px;
+}
+
+.principal{
+    background: #FAD4C0;
+    padding: 10px;
+    
+}
+
+.header{
+    display: flex;
+}
+
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+}
+
+.titulo{
+    border: 5px solid #FAD4C0;
+    
+}
